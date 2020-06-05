@@ -1,0 +1,10 @@
+.header{
+    width: 980px;
+    margin: 0 auto;
+    padding-left: 40px;
+}
+.headerone{
+    background: url(../../image/head.png) 0 0 no-repeat;
+    width: 200px;
+    height: 300px;
+}

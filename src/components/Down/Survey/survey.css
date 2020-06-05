@@ -1,0 +1,42 @@
+.survey{
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+.surveytext{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.surveytext h1{
+    padding: 0 40px;
+}   
+
+.surveylist{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.survey span{
+    border: 1px solid black;
+    padding: 2px 15px;
+    border-radius: 30px;
+    margin-right: 15px;
+    background-color: #e6e6e6;
+}
+.survey span:hover{
+    background-color: #a8a8a8;
+}
+.survey span a{
+  color: black;
+  text-decoration: none;
+}
+.survey button{
+    background-color: #f0f0f0;
+    color: #0067bb;
+    border: none;
+    font-size: 18px;
+}
+.survey button:hover{
+    border: 1px solid black;
+    padding: 2px 4px;
+}

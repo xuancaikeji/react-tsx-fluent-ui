@@ -1,0 +1,17 @@
+.buy{
+    margin-left: 40px;
+}
+.button{
+    background-color: #005DA6;
+    color: #ffffff;
+    width: 200px;
+    height: 35px;
+    border: 1px solid black;
+    float: right;
+    margin-right: 200px;
+}
+.button:hover{
+    background-color: rgb(4, 81, 139);
+    box-shadow: 0 0 1px 1px #1d0372;
+   transition: .5s all;
+}

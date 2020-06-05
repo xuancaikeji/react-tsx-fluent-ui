@@ -1,0 +1,45 @@
+{
+  "name": "webpackpractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode development",
+    "start": "webpack-dev-server --mode development --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fluentui/react": "^7.117.0",
+    "autoprefixer": "^9.8.0",
+    "file-loader": "^6.0.0",
+    "office-ui-fabric-react": "^7.117.0",
+    "postcss-cli": "^7.1.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "sass-loader": "^8.0.2",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-native": "^0.62.12",
+    "css-loader": "^3.5.3",
+    "electron": "9.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "postcss-loader": "^3.0.0",
+    "react-hot-loader": "^4.12.21",
+    "style-loader": "^1.2.1",
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.3",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "browserslist": [
+    "cover 99.5%"
+  ]
+}

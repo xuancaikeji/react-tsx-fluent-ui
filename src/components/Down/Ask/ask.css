@@ -1,0 +1,43 @@
+.ask{
+    padding:0 40px;
+    padding-bottom: 100px;
+}
+.ask h1{
+    text-align: center;
+    font-size: 26px;
+}
+.ask h2{
+    text-align: center;
+  font-size: 18px;
+  
+}
+.asklist{
+    width: 80%;
+    margin: 0 auto;
+}
+.askone h3{
+    padding: 0;
+    margin: 0;
+}
+.askone p{
+    margin: 0;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgb(165, 165, 165);
+  margin-bottom: 20px;
+}
+.asktwo{
+border-bottom: 1px solid rgb(165, 165, 165);
+padding-bottom: 10px;
+padding-top: 10px;
+}
+.asktwo h4{
+  display: inline;
+}
+.asktwo p{
+    display: inline;
+    padding-left: 100px;
+}
+.askright{
+    margin-left: 20px;
+    margin-top: 20px;
+}
