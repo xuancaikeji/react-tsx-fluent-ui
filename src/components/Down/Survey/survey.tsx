@@ -1,7 +1,7 @@
 import * as React from "react"
 import "./survey.css"
 
-export default class Ask extends React.Component {
+export default class Ask extends React.Component<any,any> {
     render() {
         return (
             <div className="survey">
